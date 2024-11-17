@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>DN Campaign - Custom Content</name>
+		<description>Custom items for DN Campaign.</description>
+		<author url="None">BVB</author>
+		<update version="0.1">
+			<file name="DN-Campaign.index" url="https://github.com/vanbeekb/Aurora-Custom-Elements/blob/main/DN-Campaign.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://github.com/vanbeekb/Aurora-Custom-Elements/blob/main/DN-Campaign-Stuff.xml" />
+	</files>
+</index>
